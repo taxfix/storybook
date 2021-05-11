@@ -246,7 +246,7 @@
 
 "@types/node@^7.0.11":
   version "7.0.56"
-  resolved "http://registry.npmjs.org/@types/node/-/node-7.0.56.tgz#b6b659049191822be43c14610c1785d4b9cddecf"
+  resolved "https://registry.npmjs.org/@types/node/-/node-7.0.56.tgz#b6b659049191822be43c14610c1785d4b9cddecf"
 
 "@types/react-router-dom@^4.2.2":
   version "4.2.3"
@@ -5541,8 +5541,8 @@ homedir-polyfill@^1.0.0, homedir-polyfill@^1.0.1:
     parse-passwd "^1.0.0"
 
 hosted-git-info@^2.1.4, hosted-git-info@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.5.0.tgz#6d60e34b3abbc8313062c3b798ef8d901a07af3c"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 html-comment-regex@^1.1.0:
   version "1.1.1"
